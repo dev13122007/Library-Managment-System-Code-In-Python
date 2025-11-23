@@ -1,0 +1,26 @@
+[
+    {
+        "id": "B001",
+        "title": "Basic Electrical Engineering",
+        "author": "S.K. Bhattacharya",
+        "issued": false,
+        "issuer": "",
+        "issue_date": ""
+    },
+    {
+        "id": "B002",
+        "title": "Higher Engineering Mathematics",
+        "author": "H.K. Das",
+        "issued": false,
+        "issuer": "",
+        "issue_date": ""
+    },
+    {
+        "id": "B003",
+        "title": "Python Book",
+        "author": "Jhon",
+        "issued": false,
+        "issuer": "",
+        "issue_date": ""
+    }
+]
